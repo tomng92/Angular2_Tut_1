@@ -1,15 +1,8 @@
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
 
-pids
-logs
-results
-build
+# see https://intellij-support.jetbrains.com/hc/en-us/articles/206544839-How-to-manage-projects-under-Version-Control-Systems
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/*.iws
+**/*.log
 
 node_modules
