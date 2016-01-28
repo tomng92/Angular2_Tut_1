@@ -1,5 +1,9 @@
 
 
+Angular2 Tutorial 1
+=====================
+Starter project. May perhaps be used as a template.
+
 See https://angular.io/docs/ts/latest/quickstart.html
 
 run > npm install....
