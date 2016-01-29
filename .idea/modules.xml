@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Angular2_Tut_1.iml" filepath="$PROJECT_DIR$/Angular2_Tut_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeroEditor_1/HeroEditor_1.iml" filepath="$PROJECT_DIR$/HeroEditor_1/HeroEditor_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeroEditor_2/HeroEditor_2.iml" filepath="$PROJECT_DIR$/HeroEditor_2/HeroEditor_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeroEditor_3_MultipleComponents/HeroEditor_3_MultipleComponents.iml" filepath="$PROJECT_DIR$/HeroEditor_3_MultipleComponents/HeroEditor_3_MultipleComponents.iml" />
     </modules>
   </component>
 </project>
